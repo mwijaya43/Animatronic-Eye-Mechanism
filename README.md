@@ -18,10 +18,13 @@ Components:
 ![Stl Components Diagram](https://github.com/mwijaya43/Animatronic-Eye-Mechanism/assets/162684142/0a7dc95d-c709-4cde-9d00-c83e2dd15bb6)
 
 Preview:
+
 https://github.com/mwijaya43/Animatronic-Eye-Mechanism/assets/162684142/27ca4b38-a0d8-4ed4-b424-6860fe8cc862
 
 Add LED to the Eyeball:
+
 https://github.com/mwijaya43/Animatronic-Eye-Mechanism/assets/162684142/f0576b6e-3199-4e0d-ad75-f3779bc20517
+
 
 Refferences:
 - https://nilheim-mechatronics.notion.site/Simple-Eye-Mechanism-983e6cad7059410d9cb958e8c1c5b700

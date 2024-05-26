@@ -1,5 +1,6 @@
 # Animatronic-Eye-Mechanism
 This Project Makes Electronic Eye Mechanism With Servos and Joystick as a Controller
+
 ![photo_2024-05-26_12-34-55](https://github.com/mwijaya43/Animatronic-Eye-Mechanism/assets/162684142/8cb6fd3b-c500-4cb3-bf52-c92f31fcd8a1)
 
 Components: 
@@ -13,6 +14,7 @@ Components:
 - Resistor 10k Ohm (1)
 
 3D Printed Components:
+
 ![Stl Components Diagram](https://github.com/mwijaya43/Animatronic-Eye-Mechanism/assets/162684142/0a7dc95d-c709-4cde-9d00-c83e2dd15bb6)
 
 Preview:
